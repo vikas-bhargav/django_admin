@@ -1,0 +1,3 @@
+
+I'm having a bit of a rough time laying out how I would count certain elements within a text file using Python.
+I'm a few months into Python and I'm familiar with the following functions.
